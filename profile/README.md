@@ -1,4 +1,4 @@
-### Hello, this is SPIN's space
+### Hello, this is SPIN's github space
 
 - 💻 <a href="http://spinengenharia.com.br/en">SPINEng Website</a>
 
@@ -6,9 +6,7 @@
 <!--<div>
   <a href="https://github.com/leokportoSpin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leokportoSpin&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <!--
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokportoSpin&layout=compact&langs_count=7&theme=default"/>
-  -->
+  
 </div>-->
 <div style="display: inline_block"><br />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
